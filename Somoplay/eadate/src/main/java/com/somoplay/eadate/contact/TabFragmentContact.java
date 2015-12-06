@@ -75,7 +75,7 @@ public class TabFragmentContact extends Fragment implements View.OnClickListener
         mTitle = (TextView) view.findViewById(R.id.txt1);
         context=getActivity();
 
-       // mBackImg.setVisibility(View.GONE);
+       mBackImg.setVisibility(View.GONE);
         mTitle.setText("主页面");
         mBut6.setVisibility(View.GONE);
 
