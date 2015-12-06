@@ -1,10 +1,5 @@
 package com.somoplay.somotab;
 
-import java.lang.reflect.Field;
-import java.lang.reflect.Method;
-import java.util.ArrayList;
-import java.util.List;
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -16,6 +11,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewConfiguration;
 import android.view.Window;
+
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainTabActivity extends FragmentActivity implements OnClickListener,
 		OnPageChangeListener
@@ -103,7 +103,13 @@ public class MainTabActivity extends FragmentActivity implements OnClickListener
 		one.setOnClickListener(this);
 		two.setOnClickListener(this);
 		three.setOnClickListener(this);
-		four.setOnClickListener(this);
+//		four.setOnClickListener(new OnClickListener() {
+//			@Override
+//			public void onClick(View v) {
+//				Log.d("MainTabAcitivity","Test");
+//			}
+//		});
+        four.setOnClickListener(this);
 		five.setOnClickListener(this);
 
 		one.setIconAlpha(1.0f);

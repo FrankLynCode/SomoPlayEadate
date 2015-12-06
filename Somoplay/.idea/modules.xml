@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IMkit/IMkit.iml" filepath="$PROJECT_DIR$/IMkit/IMkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Somoplay.iml" filepath="$PROJECT_DIR$/Somoplay.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/eadate/eadate.iml" filepath="$PROJECT_DIR$/eadate/eadate.iml" />
