@@ -91,7 +91,7 @@ public class TabFragmentContact extends Fragment implements View.OnClickListener
         switch (v.getId()) {
             case R.id.bt2:
                 if (RongIM.getInstance() != null)
-                    RongIM.getInstance().startPrivateChat(context, "74358", "title");
+                    RongIM.getInstance().startPrivateChat(context, "234", "title");
                 break;
             case R.id.bt3:
                 if (RongIM.getInstance() != null)

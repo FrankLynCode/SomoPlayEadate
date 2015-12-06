@@ -1,1 +1,1 @@
-include ':app', ':eadate', ':eafoodie', ':somolib', ':somotab', ':IMkit'
+include ':app', ':eadate', ':eafoodie', ':somolib', ':somotab', ':IMKit'

@@ -1,7 +1,6 @@
 package com.somoplay.eadate;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -30,7 +29,7 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_main);
         initTabView();
-
+        login();
     }
 
 
@@ -158,24 +157,25 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
             @Override
             protected void onPostExecute(String result) {
 
-                try {
-//                    if (result != null) {
-//                        JSONObject object = new JSONObject(result);
-//                        JSONObject jobj = object.getJSONObject("result");
-//                        if (object.getInt("code") == 200) {
-//                            token = jobj.getString("token");
-//                            connect(token);
-//                        暂时固定token--账号1234,昵称1234
-                    String token = "WvGSOoF1L/DKhqvig9ns4YiV43YIDnXz4U9Txq78tU7XnnnjKLE8dL8stB+iYCGJMabcuxYxxyZhKpB3onDZGA==";
-                    connect(token);
-                    SharedPreferences.Editor edit = DemoContext.getInstance().getSharedPreferences().edit();
-                    edit.putString("DEMO_TOKEN", token);
-                    edit.apply();
-//                        }
-//                    }
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+                String token = "WvGSOoF1L/DKhqvig9ns4YiV43YIDnXz4U9Txq78tU7XnnnjKLE8dL8stB+iYCGJMabcuxYxxyZhKpB3onDZGA==";
+                connect(token);
+//                try {
+////                    if (result != null) {
+////                        JSONObject object = new JSONObject(result);
+////                        JSONObject jobj = object.getJSONObject("result");
+////                        if (object.getInt("code") == 200) {
+////                            token = jobj.getString("token");
+////                            connect(token);
+////                        暂时固定token--账号1234,昵称1234
+//
+//                    SharedPreferences.Editor edit = DemoContext.getInstance().getSharedPreferences().edit();
+//                    edit.putString("DEMO_TOKEN", token);
+//                    edit.apply();
+////                        }
+////                    }
+//                } catch (Exception e) {
+//                    e.printStackTrace();
+//                }
             }
         }.execute();
     }
