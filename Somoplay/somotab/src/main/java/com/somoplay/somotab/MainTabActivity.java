@@ -36,7 +36,7 @@ public class MainTabActivity extends FragmentActivity implements OnClickListener
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main_tab);
 		setOverflowButtonAlways();
-		getActionBar().setDisplayShowHomeEnabled(false);
+//		getActionBar().setDisplayShowHomeEnabled(false);
 
 		initView();
 		initTabFrame();
