@@ -1,6 +1,5 @@
 package com.somoplay.eadate;
 
-import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -8,7 +7,6 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.somoplay.eadate.contact.ConversationActivity;
 import com.somoplay.eadate.contact.TabFragmentContact;
 import com.somoplay.somotab.ChangeColorIconWithText;
 import com.somoplay.somotab.MainTabActivity;
@@ -159,7 +157,8 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
 
                 String token = "WvGSOoF1L/DKhqvig9ns4YiV43YIDnXz4U9Txq78tU7XnnnjKLE8dL8stB+iYCGJMabcuxYxxyZhKpB3onDZGA==";
                 connect(token);
-//                try {
+                Log.d("getToken Methor","into connect");
+                //                try {
 ////                    if (result != null) {
 ////                        JSONObject object = new JSONObject(result);
 ////                        JSONObject jobj = object.getJSONObject("result");
@@ -189,6 +188,8 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
 
         if (getApplicationInfo().packageName.equals(APP.getCurProcessName(getApplicationContext()))) {
 
+            Log.d("MainActivity",getApplicationInfo().packageName+"="+APP.getCurProcessName(getApplicationContext()));
+
             /**
              * IMKit SDK调用第二步,建立与服务器的连接
              */
@@ -211,8 +212,7 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
                 public void onSuccess(String userid) {
 
                     Log.d("LoginActivity", "--onSuccess" + userid);
-                    startActivity(new Intent(MainActivity.this, ConversationActivity.class));
-                    finish();
+
                 }
 
                 /**
