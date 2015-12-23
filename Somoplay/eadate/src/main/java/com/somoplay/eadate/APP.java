@@ -3,6 +3,7 @@ package com.somoplay.eadate;
 import android.app.ActivityManager;
 import android.app.Application;
 import android.content.Context;
+import android.util.Log;
 
 import io.rong.imkit.RongIM;
 
@@ -18,6 +19,11 @@ public class APP extends Application {
          * init RongCloud
          */
         RongIM.init(this);
+        Log.d("APP",getApplicationInfo().packageName+"="+getCurProcessName(getApplicationContext()));
+        if (getApplicationInfo().packageName.equals(getCurProcessName(getApplicationContext()))) {
+
+            DemoContext.init(this);
+        }
     }
 
 

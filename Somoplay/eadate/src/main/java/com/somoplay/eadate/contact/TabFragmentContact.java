@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.ImageView;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import com.somoplay.eadate.MainActivity;
@@ -30,7 +30,7 @@ public class TabFragmentContact extends Fragment implements View.OnClickListener
 
     private static final String TAG = MainActivity.class.getSimpleName();
     private Button mBut2, mBut3, mBut4, mBut5, mBut6;
-    private ImageView mBackImg;
+    private ImageButton mBackImg;
     private TextView mTitle;
     private View view=null;
     private Context context =null;
@@ -47,36 +47,23 @@ public class TabFragmentContact extends Fragment implements View.OnClickListener
             mTitle.setText(getArguments().getString(TITLE));
         }
 
-
-
         return view;
-//
-//        View view = inflater.inflate(R.layout.fragment_conversation,null);
-//
-////        TextView tv = new TextView(getActivity());
-////        tv.setTextSize(20);
-////        tv.setBackgroundColor(Color.parseColor("#ffffffff"));
-////        tv.setText(mTitle);
-////        tv.setGravity(Gravity.CENTER);
-//
-//        return view;
-//        return inflater.inflate(R.layout.fragment_conversation, container, false);
-
 
     }
 
     private void initView(){
         mBut2 = (Button) view.findViewById(R.id.bt2);
         mBut3 = (Button) view.findViewById(R.id.bt3);
+        mBut3.setVisibility(View.GONE);
         mBut4 = (Button) view.findViewById(R.id.bt4);
         mBut5 = (Button) view.findViewById(R.id.bt5);
         mBut6 = (Button) view.findViewById(R.id.bt6);
-        mBackImg = (ImageView)view.findViewById(R.id.img1);
+        mBackImg = (ImageButton)view.findViewById(R.id.back);
         mTitle = (TextView) view.findViewById(R.id.txt1);
         context=getActivity();
 
        mBackImg.setVisibility(View.GONE);
-        mTitle.setText("主页面");
+        mTitle.setText("Contact");
         mBut6.setVisibility(View.GONE);
 
         mBut2.setOnClickListener(this);
@@ -91,7 +78,7 @@ public class TabFragmentContact extends Fragment implements View.OnClickListener
         switch (v.getId()) {
             case R.id.bt2:
                 if (RongIM.getInstance() != null)
-                    RongIM.getInstance().startPrivateChat(context, "234", "title");
+                    RongIM.getInstance().startPrivateChat(context, "1234", "title");
                 break;
             case R.id.bt3:
                 if (RongIM.getInstance() != null)

@@ -12,12 +12,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_bg_editinput.xml"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_over_selector.xml",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_over_selector.xml"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_send.xml",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_send.xml"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_over_selector.xml",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_over_selector.xml"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_finish_selector.xml",
@@ -32,16 +32,16 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_ed_public_service_search_selector.xml"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_voice.xml",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_voice.xml"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_ic_keyboard.xml",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_ic_keyboard.xml"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_ic_extend.xml",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_ic_extend.xml"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_ic_keyboard.xml",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_ic_keyboard.xml"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_voice.xml",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_voice.xml"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_answer_selector.xml",
@@ -68,16 +68,16 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_sound_off_selector.xml"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_item_top_list_selector.xml",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_item_top_list_selector.xml"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_refuse_selector.xml",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_refuse_selector.xml"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_bg_menu.xml",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_bg_menu.xml"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_refuse_selector.xml",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_refuse_selector.xml"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_item_top_list_selector.xml",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_item_top_list_selector.xml"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_an_voice_sent.xml",
@@ -92,12 +92,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_item_list_selector.xml"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_public_service_enter_selector.xml",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_public_service_enter_selector.xml"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_hands_free_selector.xml",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_hands_free_selector.xml"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_btn_public_service_enter_selector.xml",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable/rc_btn_public_service_enter_selector.xml"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable/rc_an_voice_receive.xml",

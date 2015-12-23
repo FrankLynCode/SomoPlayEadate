@@ -1,5 +1,6 @@
 package com.somoplay.eadate;
 
+import android.content.SharedPreferences;
 import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -8,12 +9,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.somoplay.eadate.contact.TabFragmentContact;
+import com.somoplay.eadate.home.TabFragmentHome;
+import com.somoplay.eadate.me.TabFragmentMe;
+import com.somoplay.eadate.message.TabFragmentMessage;
+import com.somoplay.eadate.search.TabFragmentSearch;
 import com.somoplay.somotab.ChangeColorIconWithText;
 import com.somoplay.somotab.MainTabActivity;
-import com.somoplay.somotab.SomoHome.TabFragmentHome;
-import com.somoplay.somotab.SomoMe.TabFragmentMe;
-import com.somoplay.somotab.SomoMessage.TabFragmentMessage;
-import com.somoplay.somotab.SomoSearch.TabFragmentSearch;
 import com.somoplay.somotab.TabFragment;
 
 import io.rong.imkit.RongIM;
@@ -81,16 +82,14 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
 
         TabFragmentSearch tabFragmentSearch = new TabFragmentSearch();
         Bundle bundleSearch = new Bundle();
-
-
         bundleSearch.putString(TabFragment.TITLE, "Search2");
         tabFragmentSearch.setArguments(bundleSearch);
         mTabs.add(tabFragmentSearch);
 
         TabFragmentMessage tabFragmentMessage = new TabFragmentMessage();
-        Bundle bundleMessage = new Bundle();
-        bundleMessage.putString(TabFragment.TITLE, "Message2");
-        tabFragmentMessage.setArguments(bundleMessage);
+//        Bundle bundleMessage = new Bundle();
+//        bundleMessage.putString(TabFragment.TITLE, " ");
+//        tabFragmentMessage.setArguments(bundleMessage);
         mTabs.add(tabFragmentMessage);
 
         TabFragmentContact tabFragmentContact = new TabFragmentContact();
@@ -155,9 +154,13 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
             @Override
             protected void onPostExecute(String result) {
 
-                String token = "WvGSOoF1L/DKhqvig9ns4YiV43YIDnXz4U9Txq78tU7XnnnjKLE8dL8stB+iYCGJMabcuxYxxyZhKpB3onDZGA==";
+                //234 234
+                String token = "1Iqjy7E/Z5ph02U0/F9A5YiV43YIDnXz4U9Txq78tU6/aZUcJZq3X1uxIs5Hmsn0tHkkkLd2WxFe51BzlGX2mw==";
                 connect(token);
-                Log.d("getToken Methor","into connect");
+
+                SharedPreferences.Editor edit = DemoContext.getInstance().getSharedPreferences().edit();
+                edit.putString("DEMO_TOKEN", token);
+                edit.apply();
                 //                try {
 ////                    if (result != null) {
 ////                        JSONObject object = new JSONObject(result);

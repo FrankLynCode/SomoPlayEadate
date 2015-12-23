@@ -2,8 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="#e4e4e4"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <include layout="@layout/actionbar" />
@@ -37,8 +37,8 @@
                 android:id="@+id/bt4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="开启聚合会话列表"/>
-            <!--android:visibility="invisible"/>-->
+                android:text="开启聚合会话列表"
+                android:visibility="invisible" />
 
             <Button
                 android:id="@+id/bt5"
