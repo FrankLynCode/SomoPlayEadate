@@ -59,26 +59,12 @@ public class TabFragmentMessage extends Fragment implements View.OnClickListener
     }
 
     private void initView() {
-
-//        mBut2 = (Button) view.findViewById(R.id.bt2);
-//        mBut2.setVisibility(View.GONE);
-//        mBut3 = (Button) view.findViewById(R.id.bt3);
-//        mBut4 = (Button) view.findViewById(R.id.bt4);
-//        mBut5 = (Button) view.findViewById(R.id.bt5);
-//        mBut6 = (Button) view.findViewById(R.id.bt6);
         mBackImg = (ImageButton) view.findViewById(R.id.back);
         mTitle = (TextView) view.findViewById(R.id.txt1);
         context = getActivity();
 
         mBackImg.setVisibility(View.GONE);
         mTitle.setText("Message");
-//        mBut6.setVisibility(View.GONE);
-
-//        mBut2.setOnClickListener(this);
-//        mBut3.setOnClickListener(this);
-//        mBut4.setOnClickListener(this);
-//        mBut5.setOnClickListener(this);
-//        mBut6.setOnClickListener(this);
 
     }
 
@@ -102,11 +88,11 @@ public class TabFragmentMessage extends Fragment implements View.OnClickListener
 
     /**
      * 加载 会话列表 ConversationListFragment
+     * 静态集成
      */
     private void enterFragment() {
 
-        fragment = ConversationListFragment.getInstance();
-        //(ConversationListFragment) getSupportFragmentManager().findFragmentById(R.id.conversationlist);
+        fragment = (ConversationListFragment) getChildFragmentManager().findFragmentById(R.id.conversationlist);
         Log.d(TAG, "rong://" + context.getApplicationInfo().packageName);
         Uri uri = Uri.parse("rong://" + context.getApplicationInfo().packageName).buildUpon()
                 .appendPath("conversationlist")
@@ -120,9 +106,5 @@ public class TabFragmentMessage extends Fragment implements View.OnClickListener
     }
 
 
-    @Override
-    public void onDestroy() {
-        super.onDestroy();
 
-    }
 }

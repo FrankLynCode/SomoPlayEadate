@@ -49,22 +49,22 @@
         </intent-filter>
 
     </activity>
-        <!--会话列表-->
-        <activity android:name=".message.MessageListActivity"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden|adjustResize">
+        <!--&lt;!&ndash;会话列表&ndash;&gt;-->
+        <!--<activity android:name=".message.MessageListActivity"-->
+            <!--android:screenOrientation="portrait"-->
+            <!--android:windowSoftInputMode="stateHidden|adjustResize">-->
 
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.VIEW" />-->
 
-                <category android:name="android.intent.category.DEFAULT" />
+                <!--<category android:name="android.intent.category.DEFAULT" />-->
 
-                <data
-                    android:host="com.somoplay.eadate"
-                    android:pathPrefix="/conversationlist"
-                    android:scheme="rong" />
-            </intent-filter>
-        </activity>
+                <!--<data-->
+                    <!--android:host="com.somoplay.eadate"-->
+                    <!--android:pathPrefix="/conversationlist"-->
+                    <!--android:scheme="rong" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
 
         <!-- begin imlib request -->
 

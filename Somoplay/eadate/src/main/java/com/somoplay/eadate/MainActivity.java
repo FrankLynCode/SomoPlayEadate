@@ -23,6 +23,8 @@ import io.rong.imlib.RongIMClient;
 public class MainActivity extends MainTabActivity//ActionBarActivity
 {
 
+    public static final String TAG = "MainActivity";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,6 +33,12 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
         login();
     }
 
+    @Override
+    protected void onDestroy() {
+        Log.d(TAG, "onDestroy");
+        super.onDestroy();
+        RongIM.getInstance().disconnect();
+    }
 
     private void initTabView() {
         int color = 0xFF00FF00;//0xFF45C01A;
