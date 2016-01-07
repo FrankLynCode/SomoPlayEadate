@@ -40,12 +40,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f609.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f004.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f004.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_volume_2.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_volume_2.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f004.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f004.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_call_refuse.png",
@@ -80,20 +80,20 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f624.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f3c2.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f3c2.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f44e.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f44e.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f603.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f603.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f3c2.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f3c2.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f622.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f622.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f603.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f603.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f4de.png",
@@ -104,12 +104,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f60a.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_checkbox_normal.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_checkbox_normal.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f3b5.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f3b5.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_checkbox_normal.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_checkbox_normal.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_bar_back.png",
@@ -144,12 +144,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_keyboard_selected.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_receive_voice_three.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_receive_voice_three.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_voice_normal.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_normal.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_receive_voice_three.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_receive_voice_three.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f44a.png",
@@ -192,20 +192,20 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_location_item_default.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f62a.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f62a.png"
-    },
-    {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f48a.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f48a.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f332.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f332.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f494.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f494.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f332.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f332.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f48a.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f48a.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f62a.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f62a.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f46b.png",
@@ -224,12 +224,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_public_service_menu_bg.9.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_unread_message_count.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_unread_message_count.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_albums_checked.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_albums_checked.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_unread_message_count.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_unread_message_count.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_warning.png",
@@ -240,12 +240,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f600.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_conversation_list_msg_send_failure.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_conversation_list_msg_send_failure.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_picture.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_picture.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_conversation_list_msg_send_failure.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_conversation_list_msg_send_failure.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f319.png",
@@ -276,32 +276,32 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_btn_send_hover.9.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u261d.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u261d.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f3b2.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f3b2.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_bubble_no_right.9.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_bubble_no_right.9.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u261d.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u261d.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f4e2.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f4e2.png"
     },
     {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_bubble_no_right.9.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_bubble_no_right.9.png"
+    },
+    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_trangle.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_trangle.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f637.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f637.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_volume_cancel.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_volume_cancel.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f637.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f637.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f48b.png",
@@ -344,12 +344,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_volume_3.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_volume_4.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_volume_4.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_radio_button_on.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_radio_button_on.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_volume_4.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_volume_4.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_conversation_newmsg.png",
@@ -396,20 +396,20 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f436.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u2744.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u2744.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_camera.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_camera.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_smiley_selected.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_smiley_selected.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u2744.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u2744.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f484.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f484.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_smiley_selected.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_smiley_selected.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_default_discussion_portrait.png",
@@ -472,32 +472,32 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_volume_wraning.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_default_portrait.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_default_portrait.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f434.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f434.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_default_portrait.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_default_portrait.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_def_rich_content.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_def_rich_content.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f635.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f635.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f44d.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f44d.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_voide_message_unread.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_voide_message_unread.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f635.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f635.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_voice_selected.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_selected.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_voide_message_unread.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_voide_message_unread.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f393.png",
@@ -544,12 +544,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_setting_friends_delete.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f62c.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f62c.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f3c0.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f3c0.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f62c.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f62c.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_precheckbox_normal.png",
@@ -560,16 +560,16 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f61f.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f556.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f556.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_keyboard_normal.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_keyboard_normal.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f616.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f616.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_keyboard_normal.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_keyboard_normal.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f556.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f556.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_btn_send_normal.9.png",
@@ -580,12 +580,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f634.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_notice_point.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_notice_point.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_smiley_normal.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_smiley_normal.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_notice_point.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_notice_point.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_voice_unread.png",
@@ -596,12 +596,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_sent_play1.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_voice_sent_play2.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_sent_play2.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f44f.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f44f.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_voice_sent_play2.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_sent_play2.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_btn_pub_service_follow_hover.png",
@@ -628,12 +628,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ed_pub_service_search_hover.9.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_conversation_list_msg_sending.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_conversation_list_msg_sending.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_bar_more.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_bar_more.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_conversation_list_msg_sending.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_conversation_list_msg_sending.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f60c.png",
@@ -648,12 +648,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f4da.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_voice_sent.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_sent.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f47b.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f47b.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_voice_sent.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_sent.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f36b.png",
@@ -684,40 +684,40 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_call_over_down.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_mebmer_delete.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_mebmer_delete.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_voice_receive_play2.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_receive_play2.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_mebmer_delete.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_mebmer_delete.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_delete.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_delete.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f62d.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f62d.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f33b.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f33b.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_bg_text_normal.9.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_bg_text_normal.9.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f33b.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f33b.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f62d.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f62d.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_sound_off_down.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_sound_off_down.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f631.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f631.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u270b.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u270b.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f631.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f631.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_bar_logo.png",
@@ -736,24 +736,24 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_call_over.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_send_voice_one.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_send_voice_one.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f64f.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f64f.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_send_voice_one.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_send_voice_one.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f437.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f437.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f6b2.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f6b2.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f356.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f356.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f6b2.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f6b2.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f389.png",
@@ -776,28 +776,28 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f44c.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f649.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f649.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_def_msg_portrait.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_def_msg_portrait.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f649.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f649.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f4a2.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f4a2.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f525.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f525.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_add_people.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_add_people.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u270c.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u270c.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_add_people.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_add_people.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f525.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f525.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f46a.png",
@@ -808,28 +808,28 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_volume_8.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_extend_normal.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_extend_normal.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_notice_wraning.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_notice_wraning.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_extend_normal.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_extend_normal.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_volume_one.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_volume_one.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f608.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f608.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_btn_pub_service_enter_normal.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_btn_pub_service_enter_normal.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_extend_selected.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_extend_selected.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_btn_pub_service_enter_normal.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_btn_pub_service_enter_normal.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f608.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f608.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f629.png",
@@ -868,12 +868,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_bg_text_hover.9.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f614.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f614.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f64a.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f64a.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f614.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f614.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f6bf.png",
@@ -892,24 +892,24 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u26c5.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f618.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f618.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f680.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f680.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f611.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f611.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f680.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f680.png"
-    },
-    {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u23f0.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u23f0.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f618.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f618.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_call_refuse_down.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_call_refuse_down.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u23f0.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u23f0.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f623.png",
@@ -920,20 +920,20 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f349.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_precheckbox_pressed.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_precheckbox_pressed.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_volume_7.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_volume_7.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f60f.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f60f.png"
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_precheckbox_pressed.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_precheckbox_pressed.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_voice_receive_play1.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_ic_voice_receive_play1.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f60f.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f60f.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_voice_icon_left.png",
@@ -960,12 +960,12 @@
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u263a.png"
     },
     {
-        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f633.png",
-        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f633.png"
-    },
-    {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_hands_free_down.png",
         "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/rc_hands_free_down.png"
+    },
+    {
+        "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/u1f633.png",
+        "source": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/src/main/res/drawable-xhdpi/u1f633.png"
     },
     {
         "merged": "/Users/Frank/Github/somoplay-android/Somoplay/IMKit/build/intermediates/res/merged/release/drawable-xhdpi-v4/rc_ic_def_coversation_portrait.png",

@@ -8,7 +8,7 @@
 //import android.widget.ImageButton;
 //import android.widget.TextView;
 //
-//import com.somoplay.eadate.APP;
+//import com.somoplay.eadate.App;
 //import com.somoplay.eadate.DemoContext;
 //import com.somoplay.eadate.R;
 //
@@ -113,7 +113,7 @@
 //     */
 //    private void reconnect(String token) {
 //
-//        if (getApplicationInfo().packageName.equals(APP.getCurProcessName(getApplicationContext()))) {
+//        if (getApplicationInfo().packageName.equals(App.getCurProcessName(getApplicationContext()))) {
 //
 //            RongIM.connect(token, new RongIMClient.ConnectCallback() {
 //                @Override

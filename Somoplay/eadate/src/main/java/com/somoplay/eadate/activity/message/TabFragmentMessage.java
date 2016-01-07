@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.somoplay.eadate.MainActivity;
+import com.somoplay.eadate.activity.MainActivity;
 import com.somoplay.eadate.R;
 
 import io.rong.imkit.RongIM;
