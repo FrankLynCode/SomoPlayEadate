@@ -1,4 +1,4 @@
-package com.somoplay.eadate.message;
+package com.somoplay.eadate.activity.message;
 
 import android.content.Context;
 import android.net.Uri;

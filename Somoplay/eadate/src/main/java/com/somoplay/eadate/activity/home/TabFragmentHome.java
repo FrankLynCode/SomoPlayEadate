@@ -1,4 +1,4 @@
-package com.somoplay.eadate.me;
+package com.somoplay.eadate.activity.home;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 /**
  * Created by yaolu on 15-09-14.
  */
-public class TabFragmentMe extends Fragment {
+public class TabFragmentHome extends Fragment {
     private String mTitle = "Default";
 
     public static final String TITLE = "title";

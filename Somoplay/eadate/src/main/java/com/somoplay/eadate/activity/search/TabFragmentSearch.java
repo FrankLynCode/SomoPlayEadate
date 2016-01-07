@@ -1,4 +1,4 @@
-package com.somoplay.eadate.home;
+package com.somoplay.eadate.activity.search;
 
 import android.graphics.Color;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 /**
  * Created by yaolu on 15-09-14.
  */
-public class TabFragmentHome extends Fragment {
+public class TabFragmentSearch extends Fragment {
     private String mTitle = "Default";
 
     public static final String TITLE = "title";

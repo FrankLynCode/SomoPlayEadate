@@ -8,11 +8,11 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.somoplay.eadate.contact.TabFragmentContact;
-import com.somoplay.eadate.home.TabFragmentHome;
-import com.somoplay.eadate.me.TabFragmentMe;
-import com.somoplay.eadate.message.TabFragmentMessage;
-import com.somoplay.eadate.search.TabFragmentSearch;
+import com.somoplay.eadate.activity.contact.TabFragmentContact;
+import com.somoplay.eadate.activity.home.TabFragmentHome;
+import com.somoplay.eadate.activity.me.TabFragmentMe;
+import com.somoplay.eadate.activity.message.TabFragmentMessage;
+import com.somoplay.eadate.activity.search.TabFragmentSearch;
 import com.somoplay.somotab.ChangeColorIconWithText;
 import com.somoplay.somotab.MainTabActivity;
 import com.somoplay.somotab.TabFragment;
@@ -30,7 +30,7 @@ public class MainActivity extends MainTabActivity//ActionBarActivity
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_main);
         initTabView();
-        login();
+        //login();
     }
 
     @Override

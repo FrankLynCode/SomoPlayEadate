@@ -1,4 +1,4 @@
-package com.somoplay.eadate.contact;
+package com.somoplay.eadate.activity.contact;
 
 
 import android.annotation.TargetApi;
